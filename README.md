@@ -16,7 +16,7 @@ You will write server-side code to store a list of your favorite movies, includi
 
 ## Getting Started
 
-Clone this repository and run.
+Clone this repository and run using python 2.7.
 
 ```sh
 $ git clone https://github.com/jchychot/movie_trailer_website.git
