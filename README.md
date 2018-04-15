@@ -10,8 +10,8 @@ You will write server-side code to store a list of your favorite movies, includi
 
 * [Udacity - Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004/) - Udacity information about the Nanodegree program
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-* [PEP 8 -- Style Guide for Python Code] (https://www.python.org/dev/peps/pep-0008/)
-* [Udacity - Writing READMEs] (https://www.udacity.com/course/writing-readmes--ud777) - Free Udacity course on building well stuctured READMEs.
+* [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+* [Udacity - Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777) - Free Udacity course on building well stuctured READMEs.
 
 
 ## Getting Started
@@ -25,5 +25,5 @@ $ python entertainment_center.py
 ```
 
 ## Screen Shots
-![Main_Page](./img/main.png)
-![Trailer](./img/trailer.png)
+![Main_Page](./img/Main.PNG)
+![Trailer](./img/Trailer.PNG)
