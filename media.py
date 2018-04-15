@@ -5,7 +5,7 @@ class Movie():
     """ This class provides a way to store movie related information.
 
      Attributes:
-        tile (str): Title of the movie
+        title (str): Title of the movie
         storyline (str): Short plot of the movie
         poster_image_url (str): Poster image URL
         trailer_youtube_url (str): Youtube trailer URL
