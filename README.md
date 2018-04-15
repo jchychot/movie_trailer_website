@@ -8,10 +8,10 @@ You will write server-side code to store a list of your favorite movies, includi
 
 ## Resources
 
-* [Udacity - Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004/) - Udacity information about the Nanodegree program
-* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-* [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
-* [Udacity - Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777) - Free Udacity course on building well structured READMEs.
+* [Udacity - Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004/) - Udacity information about the Nanodegree program.
+* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) - A list of dos and don'ts for Python programs.
+* [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) - Coding conventions for Python code.
+* [Udacity - Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777) - Free Udacity course on building well-structured READMEs.
 
 
 ## Getting Started
