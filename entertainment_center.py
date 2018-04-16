@@ -48,8 +48,8 @@ def main():
                            "2 July 1980")
 
     caddyshack = media.Movie("Caddyshack",
-                             "An exclusive golf course has to deal with a brash"
-                             " new member.",
+                             "An exclusive golf course has to deal with a"
+                             " brash new member.",
                              "https://upload.wikimedia.org/wikipedia/en/8/84/"
                              "Caddyshack_poster.jpg",
                              "https://www.youtube.com/watch?v=x9Nl39uWEYk",
